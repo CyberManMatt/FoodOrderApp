@@ -1,8 +1,9 @@
 # FoodOrderApp
 
-Udemy Course: React - The Complete Guide 2023 (incl. React Router & Redux)
+Udemy Course: **[React - The Complete Guide 2023 (incl. React Router & Redux)](https://www.udemy.com/course/react-the-complete-guide-incl-redux/learn/)**
 
-Instructor: Maximilian Schwarzmuller
+Instructor: **[Maximilian Schwarzmuller](https://www.udemy.com/user/maximilian-schwarzmuller/)**
+**[:octocat:](https://github.com/maxschwarzmueller)**
 
 ## Description
 
