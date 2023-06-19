@@ -1,3 +1,8 @@
+/*
+Component Type: Presentation
+Description: Text that displays above the meals list
+*/
+
 import classes from "./MealsSummary.module.css"
 
 export function MealsSummary() {

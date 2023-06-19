@@ -1,5 +1,11 @@
+/*
+Component Type: Logic
+Description: Displays a list of available meals. Data is static.
+*/
+
 import classes from "./AvailableMeals.module.css"
 
+// Dummy data of meals to display
 const DUMMY_MEALS = [
     {
         id: 'm1',
@@ -28,6 +34,7 @@ const DUMMY_MEALS = [
 ];
 
 export function AvailableMeals() {
+    // Initialize list of meals by using the .map() method to return a list of JSX
     const meals = DUMMY_MEALS.map(m => <li>{m.name}</li>)
 
     return (
