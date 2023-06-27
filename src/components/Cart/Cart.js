@@ -23,5 +23,6 @@ export function Cart(props) {
                 <button className={classes["button--alt"]}>Close</button>
                 <button className={classes.button}>Order</button>
             </div>
-        </Modal>)
+        </Modal>
+    )
 }

@@ -8,7 +8,8 @@ import classes from "./HeaderCartButton.module.css";
 
 export function HeaderCartButton(props) {
     return (
-        <button className={classes.button}>
+        // When this button is clicked, the onClick handler passed on from Header.js is executed
+        <button className={classes.button} onClick={props.onClick}>
             <span className={classes.icon}>
                 <CartIcon />
             </span>
